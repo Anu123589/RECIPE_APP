@@ -1,2 +1,2 @@
 # Recipe-App
-An Simple Recipe App
+A Simple Recipe App
