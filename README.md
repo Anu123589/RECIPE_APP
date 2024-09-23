@@ -1,1 +1,2 @@
-# RECIPE_APP
+# Recipe-App
+An Simple Recipe App
